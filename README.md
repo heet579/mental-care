@@ -110,3 +110,15 @@ flutter build ios --release
 - Styled with Material Design
 
 🔒 Login credentials for app's functional experience. user@mindcare.com: wellness123 therapist@mindcare.com: therapy456 admin@mindcare.com: admin789 test@example.com: (validation test) demo@wellness.com: (validation test)
+
+
+
+
+**Mood Dashboard**
+![image](https://github.com/user-attachments/assets/d3fb554b-3460-41af-b6eb-5bea32052f58)
+
+**Registration Flow Example**
+![image](https://github.com/user-attachments/assets/453fc271-557f-4545-9140-4bffcf37606d)
+
+**Login Screen**
+![image](https://github.com/user-attachments/assets/05a23a6f-20d4-4d91-b303-d757d31b5488)
